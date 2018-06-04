@@ -7,7 +7,7 @@ We are making the dataset YMS (YouTube Movie Summaries) with the annotations and
 purposes. If you would like to use the dataset for any other purposes please contact the authors.
 
 ### Introduction
-This dataset contains 93 movie summary videos from various YouTube channels. You can find the explanation of each file below:
+This dataset contains 94 movie summary videos from various YouTube channels. You can find the explanation of each file below:
 
 `YMS/movie_list.txt` - the list of video titles with the corresponding numbering
 
