@@ -35,6 +35,6 @@ If you find NeuMATCH useful in your research, or if you use the YMS dataset, ple
     }
 
 ### Contact
-You can reach us via `pelin.dogan@inf.ethz.ch`
+You can reach us via `pelindogan08@gmail.com`
 
 If you have any questions related to the dataset please let us know.
